@@ -59,7 +59,7 @@
         </dependency>
 
         <!--jackson: Restte default json yerine XML almak icin kullanıyoruz-->
-        <!-- <dependency>
+      <!--  <dependency>
              <groupId>com.fasterxml.jackson.dataformat</groupId>
              <artifactId>jackson-dataformat-xml</artifactId>
          </dependency>-->
